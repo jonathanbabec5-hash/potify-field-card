@@ -2,6 +2,14 @@
 
 [Complete repository directory tree](docs/DIRECTORY.md)
 
+## The crease is part of the interface
+
+Field Card 01 has to work away from the screen, where a fold can hide a label and the back of the page matters as much as the front. Its best usability test is a sheet of paper, not another screenshot of the download button.
+
+The [printable card](public/field/01/assets/Field_Card_01.pdf) and its [reading companion](public/field/01/card.html) carry the same small publication into two settings. An HTTP delivery tells us a file arrived. It cannot tell us whether the type survived the fold.
+
+If you already have a print, note the paper size, side orientation and first line that becomes hard to read when folded. If you only have the PDF, identify your feedback as a screen check. Both kinds of observation are useful when they stay distinct.
+
 **Printable publication and reading pages.** Give a grower a practical field card they can open, fold and use away from the screen.
 
 ### Setup and usage

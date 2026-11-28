@@ -1,5 +1,13 @@
 # Field Card 01
 
+## Find your way in
+
+| If you are… | Start here | Try this |
+| --- | --- | --- |
+| A grower | [Open Field Card 01](public/field/01/assets/Field_Card_01.pdf) | Read or print the card and check how it folds. |
+| A reader | [Visit the reading companion](public/field/01/card.html) | Explore the screen version of the publication. |
+| A contributor | [Review the project tree](docs/DIRECTORY.md) | Distinguish print feedback from a screen-only check. |
+
 [Complete repository directory tree](docs/DIRECTORY.md)
 
 ## The crease is part of the interface
